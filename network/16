@@ -1,0 +1,5 @@
+1) open file (path "/etc/host")
+2) add line  to file
+3) line must be like this :
+
+46.19.122.85 intra.42.fr

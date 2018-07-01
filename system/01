@@ -1,0 +1,7 @@
+Watch version of Debian we use comand :
+
+lsb_release -a
+
+File contains in :
+
+cat /etc/debian_version
